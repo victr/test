@@ -1,1 +1,1 @@
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/MUQfKFzIOeU?autoplay=1" frameborder="0"></iframe>
+<iframe width="700px" height="700px" src="https://www.youtube.com/embed/MUQfKFzIOeU?autoplay=1&mute=1" frameborder="0" allow="autoplay"></iframe>
